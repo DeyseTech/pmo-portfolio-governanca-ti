@@ -18,9 +18,6 @@ Em ambientes de tecnologia, gerenciar múltiplos projetos simultaneamente exige 
 ![Dashboard de Governança](Power%20BI.png)
 
 
-## 🎯 Soluções Práticas Apresentadas
-
-
 
 ---
 
